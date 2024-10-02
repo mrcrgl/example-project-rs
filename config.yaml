@@ -1,0 +1,4 @@
+persistence_driver:
+  driver: sqlite
+  config:
+    file: sqlite.db
